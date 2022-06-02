@@ -1,0 +1,16 @@
+.words{
+	width: 30%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding:50px;
+}
+
+.title{
+	padding: 5px;
+}
+
+.addWords{
+	margin: 20px;
+}
+

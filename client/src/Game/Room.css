@@ -1,0 +1,35 @@
+.room {
+  .min-height: 100%;
+  padding:2rem;
+  text-align: center;
+  background-color: rgba(105, 0, 0, 0.2);
+  background-size: cover;
+}
+
+.score{
+	padding-top: 30px;
+	padding-right: 125px;
+	font: 2.2rem 'Georgia', serif;
+}
+
+.drawingZone{
+	padding-top: 55px;
+}
+
+.guessWord{
+	padding-right: 100px;
+	font: 2.2rem 'Georgia', serif;
+}
+
+.chatTitle{
+	font: 2.2rem 'Georgia', serif;
+}
+
+.nbPlayer{
+	padding-top: 10px;
+	padding-right: 125px;
+	font: 1.5rem 'Georgia', serif;
+}
+
+
+
